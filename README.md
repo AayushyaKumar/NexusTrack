@@ -12,10 +12,8 @@ We will building a decentralized supply chain Tracking system. It will increase 
 
 ## Features
 
-- NFT MINTING USING TRON BLOCKCHAIN..
-- ROYALITIES PAYMENTS TO ORIGINAL AI MODEL DEVS
-- MARKETPLACE TO SELL AND BUY USING PAYPAL, CREDIT CARDS.
-- LICENSING
+- USING ML TO PREDICT SUPPLY CHAIN DISRUPTIONS
+- USING ML TO PREDICT DEMAND PATTERNS & OPTIMIZE INVENTORY MGMT..
 
 
 ## Run Locally
@@ -23,13 +21,13 @@ We will building a decentralized supply chain Tracking system. It will increase 
 Clone the project
 
 ```bash
-  git clone https://github.com/AYUSHMAN0503/MeloSynthiaAI.git 
+  git clone https://github.com/AYUSHMAN0503/NexusTrack 
 ```
 
 Go to the project directory
 
 ```bash
-  cd MeloSynthiaAI
+  cd NexusTrack
 ```
 
 Install dependencies
