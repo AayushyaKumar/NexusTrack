@@ -1,5 +1,9 @@
 # NexusTrack
 
+
+![Alt text](logo/logo-transparent2-png.png)
+
+
 Theme no 1: Web3
 
 Idea: Blockchain based supply chain tracking..
