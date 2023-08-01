@@ -1,4 +1,4 @@
-# MeloSynthiaAI
+# NexusTrack
 
 Theme no 1: Web3
 
