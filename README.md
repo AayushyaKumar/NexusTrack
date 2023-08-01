@@ -106,6 +106,4 @@ Now, go to the original repository on GitHub and create a pull request from your
 Created for HackaTRON || All rights reserved by Web3 Sailors 
 
 
-![Logo](C:\Users\ayush\OneDrive\Desktop\LOGOS\logo-transparent-png.png)
-
 
