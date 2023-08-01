@@ -107,6 +107,6 @@ Created for HackaTRON || All rights reserved by Web3 Sailors
 
 
 
-![Logo](![Alt text](logo-transparent-png.png))
+![Alt text](logo/logo-transparent-png.png)
 
 
