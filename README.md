@@ -1,31 +1,24 @@
 # NexusTrack
 
-
 ![Alt text](logo/logo-transparent2-png.png)
 
-
-Theme no 1: Web3
+Theme no 1: 🌐Web3
 
 Idea: Blockchain based supply chain tracking..
 
 We will building a decentralized supply chain Tracking system. It will increase transparency and reduce fraud..
 
-
-
-
-
-## Features
+## ✨Features
 
 - USING ML TO PREDICT SUPPLY CHAIN DISRUPTIONS
 - USING ML TO PREDICT DEMAND PATTERNS & OPTIMIZE INVENTORY MGMT..
 
-
-## Run Locally
+## 🚀Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/AYUSHMAN0503/NexusTrack 
+  git clone https://github.com/AYUSHMAN0503/NexusTrack
 ```
 
 Go to the project directory
@@ -46,8 +39,7 @@ Start the server
   npm run dev
 ```
 
-
-## Contributing
+## 👨‍💻Contributing
 
 Contributions are always welcome!
 
@@ -88,29 +80,17 @@ Push the changes to your forked repository
 ```bash
 git push origin master
 ```
+
 - Step 3: Create a pull request on the original repository
 
-Now, go to the original repository on GitHub and create a pull request from your forked repository. 
+Now, go to the original repository on GitHub and create a pull request from your forked repository.
 
-
-
-
-
-
-
-
-
-## Documentation
+## 📝Documentation
 
 [React+Typescript](https://react-typescript-cheatsheet.netlify.app/)
 
-
 ## Copyright
 
-Created for HackaTRON || All rights reserved by Web3 Sailors 
-
-
+Created for <a href="https://trondao.org/hackatron/">HackaTRON</a> | Copyright © Web3 Sailors.
 
 ![Alt text](logo/logo-transparent-png.png)
-
-
